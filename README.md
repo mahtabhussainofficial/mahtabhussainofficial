@@ -40,7 +40,7 @@ I'm a Python backend developer and Computer Science undergraduate from Lahore, c
 
 <p align="center">
   <a href="https://github.com/mahtabhussainofficial/business-expense-tracker"><img src="assets/project-1.svg" alt="Business Expense Tracker" width="32%"></a>
-  <a href="https://github.com/mahtabhussainofficial?tab=repositories"><img src="assets/project-2.svg" alt="Real Estate Data Analysis" width="32%"></a>
+  <a href="https://github.com/mahtabhussainofficial/Real-Estate-Analysis"><img src="assets/project-2.svg" alt="Real Estate Data Analysis" width="32%"></a>
   <a href="https://github.com/mahtabhussainofficial/smart-file-organizer"><img src="assets/project-3.svg" alt="Smart File Organizer" width="32%"></a>
 </p>
 
